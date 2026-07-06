@@ -34,14 +34,14 @@
 
 | 주차 | 시즌 | 주제 | 질문 범위 | 진행 내용 |
 | --- | --- | --- | --- | --- |
-| Week 01 | Season 1 - 공통 CS 압축 | Computer Architecture + OS Runtime | COMMON-001 ~ COMMON-020 | 컴퓨터가 코드를 실행하는 흐름, CPU, 레지스터, 명령어 사이클, 컴파일/인터프리터, 프로세스, 스레드, 컨텍스트 스위칭 |
-| Week 02 | Season 1 - 공통 CS 압축 | OS Memory / Concurrency + Core Data Structure | COMMON-021 ~ COMMON-040 | 메모리 구조, Stack/Heap, 가상 메모리, Page Fault, 동시성, Mutex/Semaphore, Deadlock, Hash, Tree, Heap |
-| Week 03 | Season 1 - 공통 CS 압축 | Network / Web / I/O | COMMON-041 ~ COMMON-060 | 요청이 서버까지 가는 흐름, OSI/TCP-IP, TCP/UDP, HTTP/HTTPS, DNS, REST, WebSocket, Blocking/Non-blocking, I/O Multiplexing |
-| Week 04 | Season 1 - 공통 CS 압축 | Database / Storage / Cache | COMMON-061 ~ COMMON-080 | 데이터 저장과 조회, Key, 정규화, Join, Index, Transaction, Isolation Level, Lock, Connection Pool, Replication, Cache |
-| Week 05 | Season 1 - 공통 CS 압축 | Software Engineering / Design Pattern | COMMON-081 ~ COMMON-100 | OOP, SOLID, Design Pattern, Layered Architecture, 테스트, 좋은 코드 구조, 시스템 설계 기초 |
-| Week 06 | Season 2 - 직무별 심화 | Role-Based Interview 1 | ROLE-001 ~ ROLE-020 | 희망 직무별 핵심 질문 선정 및 답변 작성. Backend, Cloud/DevOps, Frontend, Data/AI 등 각자 직무에 맞는 질문 대비 |
-| Week 07 | Season 2 - 직무별 심화 | Role-Based Interview 2 | ROLE-021 ~ ROLE-040 | 직무별 상세 질문, 기술 선택 이유, 트레이드오프, 직무 적합성 중심 답변 정리 |
-| Week 08 | Season 2 - 프로젝트/포트폴리오 면접 | Project-Based Interview | PROJECT-001 ~ PROJECT-020 | 프로젝트 구조, 본인 역할, 기술적 의사결정, 트러블슈팅, 성능 개선, 장애 대응, CS 개념과 프로젝트 연결 |
+| Week 01 | Season 1 - 공통 CS 압축 | Computer Architecture + OS Runtime | COMMON-001 ~ COMMON-040 | 컴퓨터가 코드를 실행하는 흐름, CPU, 레지스터, 명령어 사이클, 컴파일/인터프리터, 프로세스, 스레드, 컨텍스트 스위칭 |
+| Week 02 | Season 1 - 공통 CS 압축 | OS Memory / Concurrency + Core Data Structure | COMMON-041 ~ COMMON-080 | 메모리 구조, Stack/Heap, 가상 메모리, Page Fault, 동시성, Mutex/Semaphore, Deadlock, Hash, Tree, Heap |
+| Week 03 | Season 1 - 공통 CS 압축 | Network / Web / I/O | COMMON-081 ~ COMMON-120 | 요청이 서버까지 가는 흐름, OSI/TCP-IP, TCP/UDP, HTTP/HTTPS, DNS, REST, WebSocket, Blocking/Non-blocking, I/O Multiplexing |
+| Week 04 | Season 1 - 공통 CS 압축 | Database / Storage / Cache | COMMON-121 ~ COMMON-160 | 데이터 저장과 조회, Key, 정규화, Join, Index, Transaction, Isolation Level, Lock, Connection Pool, Replication, Cache |
+| Week 05 | Season 1 - 공통 CS 압축 | Software Engineering / Design Pattern | COMMON-161 ~ COMMON-200 | OOP, SOLID, Design Pattern, Layered Architecture, 테스트, 좋은 코드 구조, 시스템 설계 기초 |
+| Week 06 | Season 2 - 직무별 심화 | Role-Based Interview 1 | ROLE-001 ~ ROLE-040 | 희망 직무별 핵심 질문 선정 및 답변 작성. Backend, Cloud/DevOps, Frontend, Data/AI 등 각자 직무에 맞는 질문 대비 |
+| Week 07 | Season 2 - 직무별 심화 | Role-Based Interview 2 | ROLE-041 ~ ROLE-080 | 직무별 상세 질문, 기술 선택 이유, 트레이드오프, 직무 적합성 중심 답변 정리 |
+| Week 08 | Season 2 - 프로젝트/포트폴리오 면접 | Project-Based Interview | PROJECT-001 ~ PROJECT-040 | 프로젝트 구조, 본인 역할, 기술적 의사결정, 트러블슈팅, 성능 개선, 장애 대응, CS 개념과 프로젝트 연결 |
 
 
 진행 상황에 따라 특정 주제는 2주 이상 다룰 수 있으며, 참여자들의 필요에 따라 추가 주차를 운영할 수 있습니다.
@@ -57,6 +57,7 @@
 ### 필수 제출 항목
 
 - 질문에 대한 개념 정리 및 본인의 답변
+- 질문은 주에 주제 별로 40개씩 출제되지만, 최소 20개에 답변 작성 후 제출을 원칙으로 합니다.
 
 ### 선택 작성 항목
 
